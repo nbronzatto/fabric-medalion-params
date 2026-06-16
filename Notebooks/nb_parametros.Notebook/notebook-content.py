@@ -20,8 +20,8 @@
 # Fabric Notebook — nb_parametros
 # Propósito: centralizar todos os parâmetros usados pelos notebooks Bronze, Silver e Gold.
 #            Executado via mwaitForNotebook pelos outros notebooks.
-# Autor:
-# Atualizado:
+# Autor: nbb
+# Atualizado: 2026-06
 
 # ── Dependencias ──────────────────────────────────────────────────────────────
 # Este notebook nao instala bibliotecas. Apenas declara variaveis.

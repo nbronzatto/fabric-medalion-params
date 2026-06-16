@@ -20,8 +20,8 @@
 # Fabric Notebook — nb_funcoes
 # Propósito: biblioteca de funcoes reutilizadas pelos notebooks Bronze, Silver e Gold.
 #            Executado via mwaitForNotebook antes de qualquer logica de negocio.
-# Autor:
-# Atualizado:
+# Autor: nbb
+# Atualizado: 2026-06
 
 # ── IMPORTANTE ────────────────────────────────────────────────────────────────
 # Este notebook APENAS define funcoes. Nao executa nada por si so.

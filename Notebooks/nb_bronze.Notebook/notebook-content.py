@@ -29,8 +29,8 @@
 # Propósito: Ingestao de dados brutos da PokeAPI para o Lakehouse Bronze.
 #            Cada tabela configurada em nb_parametros e processada aqui.
 # Dependencias: nb_parametros, nb_funcoes
-# Autor:
-# Atualizado:
+# Autor: nbb
+# Atualizado: 2026-06
 
 # ── Execucao ──────────────────────────────────────────────────────────────────
 # Este notebook e o ponto de entrada da pipeline. Execute-o manualmente ou

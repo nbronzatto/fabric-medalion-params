@@ -30,8 +30,8 @@
 #            Entrega visoes prontas para consumo em dashboards e relatórios.
 # Dependencias: nb_parametros, nb_funcoes
 # Pre-requisito: nb_silver deve ter sido executado com sucesso.
-# Autor:
-# Atualizado:
+# Autor: nbb
+# Atualizado: 2026-06
 
 # ==============================================================================
 # SETUP

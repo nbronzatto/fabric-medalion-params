@@ -15,6 +15,8 @@
 # Propósito: orquestrar a execução sequencial Bronze → Silver → Gold.
 # Como rodar: execute apenas este notebook. Ele chama os demais em ordem.
 # Portabilidade: funciona no Fabric e no Databricks (mssparkutils é compatível).
+# Autor: nbb
+# Atualizado: 2026-06
 
 import json
 from datetime import datetime
