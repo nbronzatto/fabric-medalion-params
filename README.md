@@ -2,7 +2,7 @@
 
 Pipeline de dados com arquitetura Medallion (Bronze → Silver → Gold) implementado no Microsoft Fabric, usando a [PokeAPI](https://pokeapi.co) como fonte de dados.
 
-![Pipeline Medallion no Microsoft Fabric](./ordem_execucao_medallion_fabric.png)
+![Pipeline Medallion no Microsoft Fabric](./ordem_execucao_medallion_fabric.svg)
 
 ## Visão geral
 
