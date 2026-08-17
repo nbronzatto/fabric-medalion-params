@@ -35,7 +35,7 @@ PokeAPI → [nb_bronze] → lk_bronze → [nb_silver] → lk_silver → [nb_gold
 
 ## Como executar
 
-**Opção 1 — Manual:** execute os notebooks na ordem abaixo. Cada um depende do anterior.
+**Opção 1: Manual:** execute os notebooks na ordem abaixo. Cada um depende do anterior.
 
 ```
 1. nb_bronze
@@ -43,9 +43,9 @@ PokeAPI → [nb_bronze] → lk_bronze → [nb_silver] → lk_silver → [nb_gold
 3. nb_gold
 ```
 
-**Opção 2 — nb_main (recomendado):** execute apenas `nb_main`. Ele orquestra os três automaticamente e interrompe a pipeline em caso de falha.
+**Opção 2: nb_main (recomendado):** execute apenas `nb_main`. Ele orquestra os três automaticamente e interrompe a pipeline em caso de falha.
 
-**Opção 3 — Data Pipeline:** crie um pipeline no Fabric com três atividades Notebook (Bronze → Silver → Gold) ligadas por dependência *On success*. Permite agendamento e monitoramento nativo.
+**Opção 3: Data Pipeline:** crie um pipeline no Fabric com três atividades Notebook (Bronze → Silver → Gold) ligadas por dependência *On success*. Permite agendamento e monitoramento nativo.
 
 ## Decisões de arquitetura
 
